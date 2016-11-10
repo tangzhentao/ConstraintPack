@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ConstraintPack_Example' do
+  pod 'ConstraintPack', :path => '../'
+
+  target 'ConstraintPack_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
