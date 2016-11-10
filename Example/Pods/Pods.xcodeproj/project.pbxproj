@@ -7,35 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2496CBF01DD453260031EB0C /* ConstraintUtilities-Description.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBD51DD453250031EB0C /* ConstraintUtilities-Description.h */; };
-		2496CBF11DD453260031EB0C /* ConstraintUtilities-Description.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496CBD61DD453250031EB0C /* ConstraintUtilities-Description.m */; };
-		2496CBF21DD453260031EB0C /* ConstraintUtilities-Install.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBD81DD453250031EB0C /* ConstraintUtilities-Install.h */; };
-		2496CBF31DD453260031EB0C /* ConstraintUtilities-Install.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496CBD91DD453250031EB0C /* ConstraintUtilities-Install.m */; };
-		2496CBF41DD453260031EB0C /* ConstraintUtilities-Layout.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBDB1DD453250031EB0C /* ConstraintUtilities-Layout.h */; };
-		2496CBF51DD453260031EB0C /* ConstraintUtilities-Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496CBDC1DD453250031EB0C /* ConstraintUtilities-Layout.m */; };
-		2496CBF61DD453260031EB0C /* Constraints-CreationMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBDE1DD453250031EB0C /* Constraints-CreationMacros.h */; };
-		2496CBF71DD453260031EB0C /* Constraints-Utility.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBDF1DD453250031EB0C /* Constraints-Utility.h */; };
-		2496CBF81DD453260031EB0C /* ConstraintUtilities-Matching.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBE11DD453250031EB0C /* ConstraintUtilities-Matching.h */; };
-		2496CBF91DD453260031EB0C /* ConstraintUtilities-Matching.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496CBE21DD453250031EB0C /* ConstraintUtilities-Matching.m */; };
-		2496CBFA1DD453260031EB0C /* ConstraintPack.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBE31DD453250031EB0C /* ConstraintPack.h */; };
-		2496CBFB1DD453260031EB0C /* NametagUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBE51DD453250031EB0C /* NametagUtilities.h */; };
-		2496CBFC1DD453260031EB0C /* NSObject-Description.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBE71DD453260031EB0C /* NSObject-Description.h */; };
-		2496CBFD1DD453260031EB0C /* NSObject-Description.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496CBE81DD453260031EB0C /* NSObject-Description.m */; };
-		2496CBFE1DD453260031EB0C /* NSObject-Nametag.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBE91DD453260031EB0C /* NSObject-Nametag.h */; };
-		2496CBFF1DD453260031EB0C /* NSObject-Nametag.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496CBEA1DD453260031EB0C /* NSObject-Nametag.m */; };
-		2496CC001DD453260031EB0C /* NSView+BackgroundColor.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBEC1DD453260031EB0C /* NSView+BackgroundColor.h */; };
-		2496CC011DD453260031EB0C /* NSView+BackgroundColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496CBED1DD453260031EB0C /* NSView+BackgroundColor.m */; };
-		2496CC021DD453260031EB0C /* View-Nametag.h in Headers */ = {isa = PBXBuildFile; fileRef = 2496CBEE1DD453260031EB0C /* View-Nametag.h */; };
-		2496CC031DD453260031EB0C /* View-Nametag.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496CBEF1DD453260031EB0C /* View-Nametag.m */; };
 		2600803B7B323EF7A5CC48DC082E13C4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		29F206ADFEE4B50ECC9ACF7CE7E66669 /* Constraints-CreationMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 75AE62CEB835EEE4CA5E16894612DB21 /* Constraints-CreationMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2AE8928141DFF837F6BBCBDA2356A936 /* ConstraintUtilities-Layout.h in Headers */ = {isa = PBXBuildFile; fileRef = 5CA7391BD8BC7A4BDACE4FB6A5E2EB9B /* ConstraintUtilities-Layout.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36391AE200FC10B6C588BC6B1417FD92 /* ConstraintUtilities-Matching.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F98C9E5B236D2AC7597A74AE472F78 /* ConstraintUtilities-Matching.m */; };
+		49A13DBCB058336A56D4A1A5CD48AA00 /* NSView+BackgroundColor.h in Headers */ = {isa = PBXBuildFile; fileRef = D180721BCFBA3352ABC8C97CE3423BFB /* NSView+BackgroundColor.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		56C8CA6A693A0857FCA94D3D6CFCA48E /* ConstraintUtilities-Description.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C9F07BBA5EE4C7A8ABC617B24D35EC3 /* ConstraintUtilities-Description.m */; };
+		5D9953C0920C45A80C25DCA255CD6B40 /* NSView+BackgroundColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 485D93454B386AD49F7022759855B7BB /* NSView+BackgroundColor.m */; };
+		5E1C29FC950649E626155AAE226CE678 /* ConstraintPack.h in Headers */ = {isa = PBXBuildFile; fileRef = DA7CD2173003048B4C9493C57473FB41 /* ConstraintPack.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5F592832A4BDA430AEC584C9B31D82EB /* ConstraintPack-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C331E65DEA6052546A1ACCD0546ACAE /* ConstraintPack-dummy.m */; };
+		64945802DD72C52314570B2E51041258 /* ConstraintUtilities-Matching.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A141DB4E029370793A3A8E257C70198 /* ConstraintUtilities-Matching.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		676E0B76B08897319EB7859C8006ABB4 /* ConstraintUtilities-Description.h in Headers */ = {isa = PBXBuildFile; fileRef = AC0835A73B16D65763929BC6C9EBDE46 /* ConstraintUtilities-Description.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7296B1BFB9BAECFAECB6FD72AB3612DA /* Pods-ConstraintPack_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C759AE1BB9E57CBE904804D093DDA937 /* Pods-ConstraintPack_Example-dummy.m */; };
-		7B503BF8F4032AA5EDBC4F45E14E8664 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		744C5DDB849B298638573D017810E4BB /* ConstraintUtilities-Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = D97A86CB54C0D2E9C3172FFC31825995 /* ConstraintUtilities-Layout.m */; };
+		7B5879738B0975F29528E4D346F40A66 /* View-Nametag.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A77210881698351CEAE436DEAEB87E /* View-Nametag.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		882E78E04F902D13137C25EF7E883786 /* NSObject-Nametag.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E9EE5226A58128BC0020ADB91449DBA /* NSObject-Nametag.m */; };
+		91F2F02F2F6600D2C6EAE68E5D956ED8 /* NSObject-Description.h in Headers */ = {isa = PBXBuildFile; fileRef = 7EDEC29E59BEA357EB30B173FC71EBB5 /* NSObject-Description.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9361B9101F47844636216891DF066FB2 /* View-Nametag.m in Sources */ = {isa = PBXBuildFile; fileRef = 448B624AE992C40591F6CC6C02F3B503 /* View-Nametag.m */; };
+		949285ADF14CBE477EB357024D3B4B70 /* Constraints-Utility.h in Headers */ = {isa = PBXBuildFile; fileRef = F28EF7314B9F351BCDD5AF19DE04A514 /* Constraints-Utility.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9530A81B431B8FEC77220DB98CE8E06F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
 		99488246C17866FC6732D27DD021410D /* Pods-ConstraintPack_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EF14AE1A8C2EF9AA079D6F4993F492C /* Pods-ConstraintPack_Tests-dummy.m */; };
+		99FD57AA800DA0808EBAD960725D787D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		C727505A01D37401E3A18EC31FF5FFE7 /* ConstraintUtilities-Install.h in Headers */ = {isa = PBXBuildFile; fileRef = DC8E4287EABBABE6B4C4864361199A7C /* ConstraintUtilities-Install.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CFF2E16931B22A5A67E54A3FC8D56792 /* NametagUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 91EE534C90866AF2B310E1102DE133EB /* NametagUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D0BF40E2C0EC6C3B442EF556F6A6CEFC /* Pods-ConstraintPack_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 72FBF8DA018629FFA8CD928F4E080085 /* Pods-ConstraintPack_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E1A5A4D513E8D5F311F6E67A055797F8 /* ConstraintPack-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E0C8B840A03511A58260FEB15F3E8267 /* ConstraintPack-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DA1CD6E0FE4F7BD1C0FDC62C8392AE1D /* ConstraintPack-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E0C8B840A03511A58260FEB15F3E8267 /* ConstraintPack-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E2D775BA9C4D065E0EF7087A8BA4B2B9 /* Pods-ConstraintPack_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0175CD24755AB9386BD8ADE48E1B56E4 /* Pods-ConstraintPack_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FCCB4F5D133DD917F7341FC314E9347E /* ConstraintPack-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C331E65DEA6052546A1ACCD0546ACAE /* ConstraintPack-dummy.m */; };
+		E98E5DA6AFEC1FFEDE290268BC2821DE /* ConstraintUtilities-Install.m in Sources */ = {isa = PBXBuildFile; fileRef = A79B24F3C1B123A704644E84CA5F3A13 /* ConstraintUtilities-Install.m */; };
+		EA94029A3619E1A7E7FB2623675B8BDF /* NSObject-Description.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CFA5FF51B9EB93C3F9B4074125BF22A /* NSObject-Description.m */; };
+		F58B6D86EB8569978A7467213BF5DF4C /* NSObject-Nametag.h in Headers */ = {isa = PBXBuildFile; fileRef = 382E270880ADF64073179389FB938AAE /* NSObject-Nametag.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,74 +43,66 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CCF95A05EBD95AC2AD2D80D7FDF4B405;
+			remoteGlobalIDString = D09F4FE8C8E8F260966C257A5A6BB16C;
 			remoteInfo = ConstraintPack;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		0175CD24755AB9386BD8ADE48E1B56E4 /* Pods-ConstraintPack_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ConstraintPack_Tests-umbrella.h"; sourceTree = "<group>"; };
+		03A77210881698351CEAE436DEAEB87E /* View-Nametag.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "View-Nametag.h"; sourceTree = "<group>"; };
 		0A73D6B85966E2AD2A92237E33435FD6 /* Pods-ConstraintPack_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ConstraintPack_Example.modulemap"; sourceTree = "<group>"; };
 		0C2B111F887D4E83EBDEA0DF34E736AE /* Pods-ConstraintPack_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ConstraintPack_Example-frameworks.sh"; sourceTree = "<group>"; };
+		0C9F07BBA5EE4C7A8ABC617B24D35EC3 /* ConstraintUtilities-Description.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ConstraintUtilities-Description.m"; sourceTree = "<group>"; };
 		0EF14AE1A8C2EF9AA079D6F4993F492C /* Pods-ConstraintPack_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ConstraintPack_Tests-dummy.m"; sourceTree = "<group>"; };
 		1209BEF20378E006A852588A6A7C0EE0 /* Pods_ConstraintPack_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ConstraintPack_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B1A928DB0E77A2288965E730073141A /* Pods-ConstraintPack_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConstraintPack_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		2307902B5C78E6DC1206FA2720739168 /* Pods-ConstraintPack_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ConstraintPack_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		2496CBD51DD453250031EB0C /* ConstraintUtilities-Description.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ConstraintUtilities-Description.h"; sourceTree = "<group>"; };
-		2496CBD61DD453250031EB0C /* ConstraintUtilities-Description.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ConstraintUtilities-Description.m"; sourceTree = "<group>"; };
-		2496CBD81DD453250031EB0C /* ConstraintUtilities-Install.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ConstraintUtilities-Install.h"; sourceTree = "<group>"; };
-		2496CBD91DD453250031EB0C /* ConstraintUtilities-Install.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ConstraintUtilities-Install.m"; sourceTree = "<group>"; };
-		2496CBDB1DD453250031EB0C /* ConstraintUtilities-Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ConstraintUtilities-Layout.h"; sourceTree = "<group>"; };
-		2496CBDC1DD453250031EB0C /* ConstraintUtilities-Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ConstraintUtilities-Layout.m"; sourceTree = "<group>"; };
-		2496CBDE1DD453250031EB0C /* Constraints-CreationMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Constraints-CreationMacros.h"; sourceTree = "<group>"; };
-		2496CBDF1DD453250031EB0C /* Constraints-Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Constraints-Utility.h"; sourceTree = "<group>"; };
-		2496CBE11DD453250031EB0C /* ConstraintUtilities-Matching.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ConstraintUtilities-Matching.h"; sourceTree = "<group>"; };
-		2496CBE21DD453250031EB0C /* ConstraintUtilities-Matching.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ConstraintUtilities-Matching.m"; sourceTree = "<group>"; };
-		2496CBE31DD453250031EB0C /* ConstraintPack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConstraintPack.h; sourceTree = "<group>"; };
-		2496CBE51DD453250031EB0C /* NametagUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NametagUtilities.h; sourceTree = "<group>"; };
-		2496CBE71DD453260031EB0C /* NSObject-Description.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject-Description.h"; sourceTree = "<group>"; };
-		2496CBE81DD453260031EB0C /* NSObject-Description.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject-Description.m"; sourceTree = "<group>"; };
-		2496CBE91DD453260031EB0C /* NSObject-Nametag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject-Nametag.h"; sourceTree = "<group>"; };
-		2496CBEA1DD453260031EB0C /* NSObject-Nametag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject-Nametag.m"; sourceTree = "<group>"; };
-		2496CBEC1DD453260031EB0C /* NSView+BackgroundColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSView+BackgroundColor.h"; sourceTree = "<group>"; };
-		2496CBED1DD453260031EB0C /* NSView+BackgroundColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSView+BackgroundColor.m"; sourceTree = "<group>"; };
-		2496CBEE1DD453260031EB0C /* View-Nametag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View-Nametag.h"; sourceTree = "<group>"; };
-		2496CBEF1DD453260031EB0C /* View-Nametag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "View-Nametag.m"; sourceTree = "<group>"; };
 		28CA633A226E81CC6C5B841FE9EEC1DE /* ConstraintPack.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ConstraintPack.xcconfig; sourceTree = "<group>"; };
+		382E270880ADF64073179389FB938AAE /* NSObject-Nametag.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSObject-Nametag.h"; sourceTree = "<group>"; };
 		3B9A7592F4574A025ED80D8E1DC31320 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		40D891F22D5350A260B7C5DF883D8F74 /* Pods-ConstraintPack_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ConstraintPack_Tests-resources.sh"; sourceTree = "<group>"; };
+		448B624AE992C40591F6CC6C02F3B503 /* View-Nametag.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "View-Nametag.m"; sourceTree = "<group>"; };
+		485D93454B386AD49F7022759855B7BB /* NSView+BackgroundColor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSView+BackgroundColor.m"; sourceTree = "<group>"; };
+		4CFA5FF51B9EB93C3F9B4074125BF22A /* NSObject-Description.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSObject-Description.m"; sourceTree = "<group>"; };
+		5CA7391BD8BC7A4BDACE4FB6A5E2EB9B /* ConstraintUtilities-Layout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ConstraintUtilities-Layout.h"; sourceTree = "<group>"; };
 		5DA8E92BF409B73D0E65701A73FF8CD7 /* Pods-ConstraintPack_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ConstraintPack_Example-resources.sh"; sourceTree = "<group>"; };
+		5E9EE5226A58128BC0020ADB91449DBA /* NSObject-Nametag.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSObject-Nametag.m"; sourceTree = "<group>"; };
 		6938E7AF35CA0B006EDAA12088CA3F46 /* Pods_ConstraintPack_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ConstraintPack_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F9EA84F2C05F1A626E0C0BFAF1E2222 /* Pods-ConstraintPack_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ConstraintPack_Tests.modulemap"; sourceTree = "<group>"; };
 		72FBF8DA018629FFA8CD928F4E080085 /* Pods-ConstraintPack_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ConstraintPack_Example-umbrella.h"; sourceTree = "<group>"; };
+		75AE62CEB835EEE4CA5E16894612DB21 /* Constraints-CreationMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Constraints-CreationMacros.h"; sourceTree = "<group>"; };
 		79482BB7534B7FBF49DCA76A0D0B77E7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EDEC29E59BEA357EB30B173FC71EBB5 /* NSObject-Description.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSObject-Description.h"; sourceTree = "<group>"; };
 		805E56E885B60A5209141D9EC07825FB /* Pods-ConstraintPack_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConstraintPack_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		91EE534C90866AF2B310E1102DE133EB /* NametagUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = NametagUtilities.h; sourceTree = "<group>"; };
 		9229C57A6D5E2C5333427F9BB588566C /* Pods-ConstraintPack_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ConstraintPack_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9785D3AD46CA1BF4C668180CD96533C6 /* ConstraintPack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ConstraintPack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A141DB4E029370793A3A8E257C70198 /* ConstraintUtilities-Matching.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ConstraintUtilities-Matching.h"; sourceTree = "<group>"; };
 		9C331E65DEA6052546A1ACCD0546ACAE /* ConstraintPack-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ConstraintPack-dummy.m"; sourceTree = "<group>"; };
+		A79B24F3C1B123A704644E84CA5F3A13 /* ConstraintUtilities-Install.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ConstraintUtilities-Install.m"; sourceTree = "<group>"; };
+		AC0835A73B16D65763929BC6C9EBDE46 /* ConstraintUtilities-Description.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ConstraintUtilities-Description.h"; sourceTree = "<group>"; };
 		BE535C006771FA3A11622BA3D97FA2F6 /* Pods-ConstraintPack_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConstraintPack_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C5B5F06D20819DC88D1958C14710812D /* ConstraintPack.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = ConstraintPack.modulemap; sourceTree = "<group>"; };
 		C759AE1BB9E57CBE904804D093DDA937 /* Pods-ConstraintPack_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ConstraintPack_Example-dummy.m"; sourceTree = "<group>"; };
 		CAD0EFC8F08EC3A088EA6A626901695E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D180721BCFBA3352ABC8C97CE3423BFB /* NSView+BackgroundColor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSView+BackgroundColor.h"; sourceTree = "<group>"; };
 		D41EE480A5A43E8E1B4EED4214B7F764 /* ConstraintPack-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ConstraintPack-prefix.pch"; sourceTree = "<group>"; };
 		D5BA57AAFB0C8A90BB0BA1329C3C2A01 /* Pods-ConstraintPack_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ConstraintPack_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		D97A86CB54C0D2E9C3172FFC31825995 /* ConstraintUtilities-Layout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ConstraintUtilities-Layout.m"; sourceTree = "<group>"; };
+		DA7CD2173003048B4C9493C57473FB41 /* ConstraintPack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ConstraintPack.h; sourceTree = "<group>"; };
 		DA901A9D2B6966D93942A0ACF0E3063F /* Pods-ConstraintPack_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ConstraintPack_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		DC8E4287EABBABE6B4C4864361199A7C /* ConstraintUtilities-Install.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ConstraintUtilities-Install.h"; sourceTree = "<group>"; };
 		E0C8B840A03511A58260FEB15F3E8267 /* ConstraintPack-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ConstraintPack-umbrella.h"; sourceTree = "<group>"; };
+		F1F98C9E5B236D2AC7597A74AE472F78 /* ConstraintUtilities-Matching.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ConstraintUtilities-Matching.m"; sourceTree = "<group>"; };
+		F28EF7314B9F351BCDD5AF19DE04A514 /* Constraints-Utility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Constraints-Utility.h"; sourceTree = "<group>"; };
 		F3FAC0E1AC2EF941106C1A100BFE9903 /* Pods-ConstraintPack_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConstraintPack_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F4C57E712352269DEF54845AA5525EF5 /* Pods-ConstraintPack_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ConstraintPack_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1D4BB539A7205A09B5D6A8815E7713CA /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7B503BF8F4032AA5EDBC4F45E14E8664 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		234355631E82980D28652AFCA0AA532C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -127,17 +119,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		33FC96ECEC9EEE382394AA1987DD56B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99FD57AA800DA0808EBAD960725D787D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		15D4DD9125EE88CA81416068B3D2E373 /* ConstraintPack */ = {
-			isa = PBXGroup;
-			children = (
-				DB0BA0D2F8D4B354A31E69C66B6B5B4E /* Classes */,
-			);
-			path = ConstraintPack;
-			sourceTree = "<group>";
-		};
 		22A0D455FB5864CCB955A77A7EAA5CCC /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -148,81 +140,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2496CBD41DD453250031EB0C /* Constraint Description */ = {
+		30BF4759F89D34AB5326D9712DAD3A8E /* ConstraintPack */ = {
 			isa = PBXGroup;
 			children = (
-				2496CBD51DD453250031EB0C /* ConstraintUtilities-Description.h */,
-				2496CBD61DD453250031EB0C /* ConstraintUtilities-Description.m */,
+				9B6692102DCB8D81BE34A15C0574661E /* Classes */,
 			);
-			path = "Constraint Description";
-			sourceTree = "<group>";
-		};
-		2496CBD71DD453250031EB0C /* Constraint Install */ = {
-			isa = PBXGroup;
-			children = (
-				2496CBD81DD453250031EB0C /* ConstraintUtilities-Install.h */,
-				2496CBD91DD453250031EB0C /* ConstraintUtilities-Install.m */,
-			);
-			path = "Constraint Install";
-			sourceTree = "<group>";
-		};
-		2496CBDA1DD453250031EB0C /* Constraint Layout */ = {
-			isa = PBXGroup;
-			children = (
-				2496CBDB1DD453250031EB0C /* ConstraintUtilities-Layout.h */,
-				2496CBDC1DD453250031EB0C /* ConstraintUtilities-Layout.m */,
-			);
-			path = "Constraint Layout";
-			sourceTree = "<group>";
-		};
-		2496CBDD1DD453250031EB0C /* Constraint Macros */ = {
-			isa = PBXGroup;
-			children = (
-				2496CBDE1DD453250031EB0C /* Constraints-CreationMacros.h */,
-				2496CBDF1DD453250031EB0C /* Constraints-Utility.h */,
-			);
-			path = "Constraint Macros";
-			sourceTree = "<group>";
-		};
-		2496CBE01DD453250031EB0C /* Constraint Matching */ = {
-			isa = PBXGroup;
-			children = (
-				2496CBE11DD453250031EB0C /* ConstraintUtilities-Matching.h */,
-				2496CBE21DD453250031EB0C /* ConstraintUtilities-Matching.m */,
-			);
-			path = "Constraint Matching";
-			sourceTree = "<group>";
-		};
-		2496CBE41DD453250031EB0C /* Nametag Utilities */ = {
-			isa = PBXGroup;
-			children = (
-				2496CBE51DD453250031EB0C /* NametagUtilities.h */,
-				2496CBE61DD453260031EB0C /* NSObject */,
-				2496CBEB1DD453260031EB0C /* View */,
-			);
-			path = "Nametag Utilities";
-			sourceTree = "<group>";
-		};
-		2496CBE61DD453260031EB0C /* NSObject */ = {
-			isa = PBXGroup;
-			children = (
-				2496CBE71DD453260031EB0C /* NSObject-Description.h */,
-				2496CBE81DD453260031EB0C /* NSObject-Description.m */,
-				2496CBE91DD453260031EB0C /* NSObject-Nametag.h */,
-				2496CBEA1DD453260031EB0C /* NSObject-Nametag.m */,
-			);
-			path = NSObject;
-			sourceTree = "<group>";
-		};
-		2496CBEB1DD453260031EB0C /* View */ = {
-			isa = PBXGroup;
-			children = (
-				2496CBEC1DD453260031EB0C /* NSView+BackgroundColor.h */,
-				2496CBED1DD453260031EB0C /* NSView+BackgroundColor.m */,
-				2496CBEE1DD453260031EB0C /* View-Nametag.h */,
-				2496CBEF1DD453260031EB0C /* View-Nametag.m */,
-			);
-			path = View;
+			path = ConstraintPack;
 			sourceTree = "<group>";
 		};
 		326242990264C505241521EB85BB26A5 /* Targets Support Files */ = {
@@ -240,6 +163,25 @@
 				CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		4334BCA04AFDE09C8410B2C2B0ACAC25 /* Nametag Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				91EE534C90866AF2B310E1102DE133EB /* NametagUtilities.h */,
+				F1292498761ED48AAD1B37DE3316F028 /* NSObject */,
+				9D3B1E2905F0E307B81F431A5D382F9E /* View */,
+			);
+			path = "Nametag Utilities";
+			sourceTree = "<group>";
+		};
+		4542E3B0C20F5B640714E55CD2273BBE /* Constraint Matching */ = {
+			isa = PBXGroup;
+			children = (
+				9A141DB4E029370793A3A8E257C70198 /* ConstraintUtilities-Matching.h */,
+				F1F98C9E5B236D2AC7597A74AE472F78 /* ConstraintUtilities-Matching.m */,
+			);
+			path = "Constraint Matching";
 			sourceTree = "<group>";
 		};
 		5DD3D22EFE76AC7EC91E8A0EC021B046 /* Pods-ConstraintPack_Tests */ = {
@@ -260,6 +202,15 @@
 			path = "Target Support Files/Pods-ConstraintPack_Tests";
 			sourceTree = "<group>";
 		};
+		6E157B76616AECAE87C22BCBEF8C0C62 /* Constraint Layout */ = {
+			isa = PBXGroup;
+			children = (
+				5CA7391BD8BC7A4BDACE4FB6A5E2EB9B /* ConstraintUtilities-Layout.h */,
+				D97A86CB54C0D2E9C3172FFC31825995 /* ConstraintUtilities-Layout.m */,
+			);
+			path = "Constraint Layout";
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
@@ -271,10 +222,44 @@
 			);
 			sourceTree = "<group>";
 		};
+		967B85595D78F91109688A43659731D7 /* Constraint Macros */ = {
+			isa = PBXGroup;
+			children = (
+				75AE62CEB835EEE4CA5E16894612DB21 /* Constraints-CreationMacros.h */,
+				F28EF7314B9F351BCDD5AF19DE04A514 /* Constraints-Utility.h */,
+			);
+			path = "Constraint Macros";
+			sourceTree = "<group>";
+		};
+		9B6692102DCB8D81BE34A15C0574661E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				DA7CD2173003048B4C9493C57473FB41 /* ConstraintPack.h */,
+				BD042026AC436B2395B011127A34FCBF /* Constraint Description */,
+				ECEE62DD14D9E284D8717C8B4EE233E2 /* Constraint Install */,
+				6E157B76616AECAE87C22BCBEF8C0C62 /* Constraint Layout */,
+				967B85595D78F91109688A43659731D7 /* Constraint Macros */,
+				4542E3B0C20F5B640714E55CD2273BBE /* Constraint Matching */,
+				4334BCA04AFDE09C8410B2C2B0ACAC25 /* Nametag Utilities */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		9D3B1E2905F0E307B81F431A5D382F9E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D180721BCFBA3352ABC8C97CE3423BFB /* NSView+BackgroundColor.h */,
+				485D93454B386AD49F7022759855B7BB /* NSView+BackgroundColor.m */,
+				03A77210881698351CEAE436DEAEB87E /* View-Nametag.h */,
+				448B624AE992C40591F6CC6C02F3B503 /* View-Nametag.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		AD3DECBEA6483D7D56B257512CA5E47D /* ConstraintPack */ = {
 			isa = PBXGroup;
 			children = (
-				15D4DD9125EE88CA81416068B3D2E373 /* ConstraintPack */,
+				30BF4759F89D34AB5326D9712DAD3A8E /* ConstraintPack */,
 				B5EC3F2237750EC1903AAD1B440E233A /* Support Files */,
 			);
 			name = ConstraintPack;
@@ -303,26 +288,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		BD042026AC436B2395B011127A34FCBF /* Constraint Description */ = {
+			isa = PBXGroup;
+			children = (
+				AC0835A73B16D65763929BC6C9EBDE46 /* ConstraintUtilities-Description.h */,
+				0C9F07BBA5EE4C7A8ABC617B24D35EC3 /* ConstraintUtilities-Description.m */,
+			);
+			path = "Constraint Description";
+			sourceTree = "<group>";
+		};
 		CD70DCCC5CA286F2239CCD6ECC7344B0 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
 				AD3DECBEA6483D7D56B257512CA5E47D /* ConstraintPack */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		DB0BA0D2F8D4B354A31E69C66B6B5B4E /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				2496CBD41DD453250031EB0C /* Constraint Description */,
-				2496CBD71DD453250031EB0C /* Constraint Install */,
-				2496CBDA1DD453250031EB0C /* Constraint Layout */,
-				2496CBDD1DD453250031EB0C /* Constraint Macros */,
-				2496CBE01DD453250031EB0C /* Constraint Matching */,
-				2496CBE31DD453250031EB0C /* ConstraintPack.h */,
-				2496CBE41DD453250031EB0C /* Nametag Utilities */,
-			);
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		EB21A07EDD8F4FEA2AEB13C47E2FBD21 /* Pods-ConstraintPack_Example */ = {
@@ -343,26 +323,46 @@
 			path = "Target Support Files/Pods-ConstraintPack_Example";
 			sourceTree = "<group>";
 		};
+		ECEE62DD14D9E284D8717C8B4EE233E2 /* Constraint Install */ = {
+			isa = PBXGroup;
+			children = (
+				DC8E4287EABBABE6B4C4864361199A7C /* ConstraintUtilities-Install.h */,
+				A79B24F3C1B123A704644E84CA5F3A13 /* ConstraintUtilities-Install.m */,
+			);
+			path = "Constraint Install";
+			sourceTree = "<group>";
+		};
+		F1292498761ED48AAD1B37DE3316F028 /* NSObject */ = {
+			isa = PBXGroup;
+			children = (
+				7EDEC29E59BEA357EB30B173FC71EBB5 /* NSObject-Description.h */,
+				4CFA5FF51B9EB93C3F9B4074125BF22A /* NSObject-Description.m */,
+				382E270880ADF64073179389FB938AAE /* NSObject-Nametag.h */,
+				5E9EE5226A58128BC0020ADB91449DBA /* NSObject-Nametag.m */,
+			);
+			path = NSObject;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		37E6433FC67CAAB4B58D14163370BFA7 /* Headers */ = {
+		8C13C98C18607A1E08A3818D04A15B00 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2496CC021DD453260031EB0C /* View-Nametag.h in Headers */,
-				2496CBF71DD453260031EB0C /* Constraints-Utility.h in Headers */,
-				2496CBF81DD453260031EB0C /* ConstraintUtilities-Matching.h in Headers */,
-				2496CBFA1DD453260031EB0C /* ConstraintPack.h in Headers */,
-				E1A5A4D513E8D5F311F6E67A055797F8 /* ConstraintPack-umbrella.h in Headers */,
-				2496CC001DD453260031EB0C /* NSView+BackgroundColor.h in Headers */,
-				2496CBF01DD453260031EB0C /* ConstraintUtilities-Description.h in Headers */,
-				2496CBFE1DD453260031EB0C /* NSObject-Nametag.h in Headers */,
-				2496CBFC1DD453260031EB0C /* NSObject-Description.h in Headers */,
-				2496CBFB1DD453260031EB0C /* NametagUtilities.h in Headers */,
-				2496CBF61DD453260031EB0C /* Constraints-CreationMacros.h in Headers */,
-				2496CBF41DD453260031EB0C /* ConstraintUtilities-Layout.h in Headers */,
-				2496CBF21DD453260031EB0C /* ConstraintUtilities-Install.h in Headers */,
+				DA1CD6E0FE4F7BD1C0FDC62C8392AE1D /* ConstraintPack-umbrella.h in Headers */,
+				5E1C29FC950649E626155AAE226CE678 /* ConstraintPack.h in Headers */,
+				29F206ADFEE4B50ECC9ACF7CE7E66669 /* Constraints-CreationMacros.h in Headers */,
+				949285ADF14CBE477EB357024D3B4B70 /* Constraints-Utility.h in Headers */,
+				676E0B76B08897319EB7859C8006ABB4 /* ConstraintUtilities-Description.h in Headers */,
+				C727505A01D37401E3A18EC31FF5FFE7 /* ConstraintUtilities-Install.h in Headers */,
+				2AE8928141DFF837F6BBCBDA2356A936 /* ConstraintUtilities-Layout.h in Headers */,
+				64945802DD72C52314570B2E51041258 /* ConstraintUtilities-Matching.h in Headers */,
+				CFF2E16931B22A5A67E54A3FC8D56792 /* NametagUtilities.h in Headers */,
+				91F2F02F2F6600D2C6EAE68E5D956ED8 /* NSObject-Description.h in Headers */,
+				F58B6D86EB8569978A7467213BF5DF4C /* NSObject-Nametag.h in Headers */,
+				49A13DBCB058336A56D4A1A5CD48AA00 /* NSView+BackgroundColor.h in Headers */,
+				7B5879738B0975F29528E4D346F40A66 /* View-Nametag.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,13 +420,13 @@
 			productReference = 6938E7AF35CA0B006EDAA12088CA3F46 /* Pods_ConstraintPack_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		CCF95A05EBD95AC2AD2D80D7FDF4B405 /* ConstraintPack */ = {
+		D09F4FE8C8E8F260966C257A5A6BB16C /* ConstraintPack */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 027D625FB819AFE1DE6F259395400DB9 /* Build configuration list for PBXNativeTarget "ConstraintPack" */;
+			buildConfigurationList = 35D18996C9AA0DFCBACE5E06E7B6AB6B /* Build configuration list for PBXNativeTarget "ConstraintPack" */;
 			buildPhases = (
-				6E36AB8019F214572D97C641529D8725 /* Sources */,
-				1D4BB539A7205A09B5D6A8815E7713CA /* Frameworks */,
-				37E6433FC67CAAB4B58D14163370BFA7 /* Headers */,
+				EF86648CB8FB7C7CD13F1AC9E60D35BD /* Sources */,
+				33FC96ECEC9EEE382394AA1987DD56B8 /* Frameworks */,
+				8C13C98C18607A1E08A3818D04A15B00 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -458,7 +458,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CCF95A05EBD95AC2AD2D80D7FDF4B405 /* ConstraintPack */,
+				D09F4FE8C8E8F260966C257A5A6BB16C /* ConstraintPack */,
 				1093E8C74E57DE898BB9AC1459FE0A8B /* Pods-ConstraintPack_Example */,
 				9660E397CF28098C7199D703B08FD09E /* Pods-ConstraintPack_Tests */,
 			);
@@ -474,27 +474,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6E36AB8019F214572D97C641529D8725 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				FCCB4F5D133DD917F7341FC314E9347E /* ConstraintPack-dummy.m in Sources */,
-				2496CBF51DD453260031EB0C /* ConstraintUtilities-Layout.m in Sources */,
-				2496CBF91DD453260031EB0C /* ConstraintUtilities-Matching.m in Sources */,
-				2496CBF31DD453260031EB0C /* ConstraintUtilities-Install.m in Sources */,
-				2496CBF11DD453260031EB0C /* ConstraintUtilities-Description.m in Sources */,
-				2496CC031DD453260031EB0C /* View-Nametag.m in Sources */,
-				2496CBFD1DD453260031EB0C /* NSObject-Description.m in Sources */,
-				2496CBFF1DD453260031EB0C /* NSObject-Nametag.m in Sources */,
-				2496CC011DD453260031EB0C /* NSView+BackgroundColor.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8C3DFC65BD42F46FB9D53744A612E667 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				99488246C17866FC6732D27DD021410D /* Pods-ConstraintPack_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF86648CB8FB7C7CD13F1AC9E60D35BD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F592832A4BDA430AEC584C9B31D82EB /* ConstraintPack-dummy.m in Sources */,
+				56C8CA6A693A0857FCA94D3D6CFCA48E /* ConstraintUtilities-Description.m in Sources */,
+				E98E5DA6AFEC1FFEDE290268BC2821DE /* ConstraintUtilities-Install.m in Sources */,
+				744C5DDB849B298638573D017810E4BB /* ConstraintUtilities-Layout.m in Sources */,
+				36391AE200FC10B6C588BC6B1417FD92 /* ConstraintUtilities-Matching.m in Sources */,
+				EA94029A3619E1A7E7FB2623675B8BDF /* NSObject-Description.m in Sources */,
+				882E78E04F902D13137C25EF7E883786 /* NSObject-Nametag.m in Sources */,
+				5D9953C0920C45A80C25DCA255CD6B40 /* NSView+BackgroundColor.m in Sources */,
+				9361B9101F47844636216891DF066FB2 /* View-Nametag.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -504,7 +504,7 @@
 		3B3562374C6F79BC45ACD8B85A564E98 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = ConstraintPack;
-			target = CCF95A05EBD95AC2AD2D80D7FDF4B405 /* ConstraintPack */;
+			target = D09F4FE8C8E8F260966C257A5A6BB16C /* ConstraintPack */;
 			targetProxy = 024D52CE31FE4498647F55F64A742134 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -545,7 +545,7 @@
 			};
 			name = Debug;
 		};
-		1727024BE37C7524C2DFEF4B4D0F8857 /* Release */ = {
+		1BA1CBCCEEA122861F5220CFB43C91B1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 28CA633A226E81CC6C5B841FE9EEC1DE /* ConstraintPack.xcconfig */;
 			buildSettings = {
@@ -730,37 +730,6 @@
 			};
 			name = Release;
 		};
-		F0FB603B59AA59EEE505D91D6DB9A987 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 28CA633A226E81CC6C5B841FE9EEC1DE /* ConstraintPack.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/ConstraintPack/ConstraintPack-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ConstraintPack/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ConstraintPack/ConstraintPack.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = ConstraintPack;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		F253E1141A8FB84F8060805F9167A584 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F3FAC0E1AC2EF941106C1A100BFE9903 /* Pods-ConstraintPack_Tests.release.xcconfig */;
@@ -796,23 +765,54 @@
 			};
 			name = Release;
 		};
+		F7538908BE406A834873DE2C55D3B7AD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 28CA633A226E81CC6C5B841FE9EEC1DE /* ConstraintPack.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ConstraintPack/ConstraintPack-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ConstraintPack/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ConstraintPack/ConstraintPack.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = ConstraintPack;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		027D625FB819AFE1DE6F259395400DB9 /* Build configuration list for PBXNativeTarget "ConstraintPack" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F0FB603B59AA59EEE505D91D6DB9A987 /* Debug */,
-				1727024BE37C7524C2DFEF4B4D0F8857 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9E1E4E48AF2EAB23169E611BF694090A /* Debug */,
 				8DED8AD26D381A6ACFF202E5217EC498 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		35D18996C9AA0DFCBACE5E06E7B6AB6B /* Build configuration list for PBXNativeTarget "ConstraintPack" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F7538908BE406A834873DE2C55D3B7AD /* Debug */,
+				1BA1CBCCEEA122861F5220CFB43C91B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

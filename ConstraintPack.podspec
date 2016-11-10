@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: In order to use ConstraintPack conveniently. The ConstraintPack is from <iOS Auto Layout Demystified Second Edition> by Erica Sadun.
                        DESC
 
   s.homepage         = 'https://github.com/tangzhentao/ConstraintPack.git'
