@@ -133,7 +133,7 @@
 - (void) generateViewReportForUser: (NSString *) userName addNames: (BOOL) addNames;
 
 #if OVERRIDE_SAFETY
-@property (nonatomic, readonly) NSString *trace;
+//@property (nonatomic, readonly) NSString *trace;
 - (void) testAmbiguity;
 #endif
 @end
