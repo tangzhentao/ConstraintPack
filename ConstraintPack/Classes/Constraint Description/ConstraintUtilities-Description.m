@@ -1061,10 +1061,6 @@
 }
 
 
-// DEBUG ONLY. For somewhat obvious reasons, do not ship with this code
-//- (NSString *) trace
-//{
-//}
 #endif
 #pragma GCC diagnostic pop
 @end
