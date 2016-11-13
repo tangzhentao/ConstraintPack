@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ConstraintPack'
   s.version          = '0.1.0'
-  s.summary          = 'iOS autolayout constraint Pack from <iOS Auto Layout Demystified Second Edition> by Erica Sadun.'
+  s.summary          = 'iOS autolayout constraint Pack.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
