@@ -23,7 +23,7 @@ pod "ConstraintPack"
 ## Author
 
 tangzhentao, tangzhentaoxl@sina.cn
-
+the codes references the sample codes of <iOS Auto Layout Demystified Second Edition> by Erica Sadun
 ## License
 
-ConstraintPack is available under the MIT license. See the LICENSE file for more info.
+ConstraintPack is available under the BSD license. See the LICENSE file for more info.
